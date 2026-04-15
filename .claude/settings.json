@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash -c 'FILE=\"$CLAUDE_FILE_PATH\"; if echo \"$FILE\" | grep -qE \"outputs/linkedin/.*\\.md$\"; then echo \"LINKEDIN QUALITY CHECK: Verifica antes de entregar:\\n1. ¿Suena a Hans o suena a IA genérica?\\n2. ¿Primera línea engancha sin ser clickbait?\\n3. ¿Tiene dato/número real o herramienta nombrada?\\n4. ¿Tiene punto de vista claro (no solo información)?\\n5. ¿CTA natural y no agresivo?\\n6. ¿Alineado a pilar de contenido?\\n7. ¿Pasa filtro anti-gurú (sin hype, sin promesas vacías)?\\nSi algún check falla, reescribir antes de entregar.\"; fi'"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash -c 'FILE=\"$CLAUDE_FILE_PATH\"; if echo \"$FILE\" | grep -qE \"\\.env$\" && ! echo \"$FILE\" | grep -qE \"\\.env\\.example$\"; then echo \"BLOCKED: No se puede escribir directamente en .env. Usa .env.example para templates.\" >&2; exit 1; fi'"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \":*)",
+      "Bash(cp ~/.claude/CLAUDE.md \"/c/Users/hvill/Documents/Cloude Code/claude-code-starter/global/CLAUDE.md\")",
+      "Bash(cp ~/.claude/hooks/verify-no-secrets.py \"/c/Users/hvill/Documents/Cloude Code/claude-code-starter/global/hooks/verify-no-secrets.py\")",
+      "Bash(cp ~/.claude/commands/init-proyecto.md \"/c/Users/hvill/Documents/Cloude Code/claude-code-starter/global/commands/init-proyecto.md\")",
+      "Bash(cp ~/.claude/commands/review.md \"/c/Users/hvill/Documents/Cloude Code/claude-code-starter/global/commands/review.md\")",
+      "Bash(cp ~/.claude/commands/commit.md \"/c/Users/hvill/Documents/Cloude Code/claude-code-starter/global/commands/commit.md\")",
+      "Bash(gh auth:*)",
+      "Bash(git --version)",
+      "Bash(git config:*)",
+      "Bash(winget install:*)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI/\")",
+      "Bash(gh --version)",
+      "Bash(cmdkey /list)",
+      "Bash(where gh:*)",
+      "Bash(mkdir -p \"/c/Users/hvill/Documents/claude-code-starter/global/commands\")",
+      "Bash(mkdir -p \"/c/Users/hvill/Documents/claude-code-starter/global/hooks\")",
+      "Bash(cp \"/c/Users/hvill/.claude/commands/init-proyecto.md\" \"/c/Users/hvill/Documents/claude-code-starter/global/commands/init-proyecto.md\")",
+      "Bash(cp \"/c/Users/hvill/.claude/commands/commit.md\" \"/c/Users/hvill/Documents/claude-code-starter/global/commands/commit.md\")",
+      "Bash(cp \"/c/Users/hvill/.claude/commands/review.md\" \"/c/Users/hvill/Documents/claude-code-starter/global/commands/review.md\")",
+      "Bash(cp \"/c/Users/hvill/.claude/commands/progress.md\" \"/c/Users/hvill/Documents/claude-code-starter/global/commands/progress.md\")",
+      "Bash(cp \"/c/Users/hvill/.claude/commands/security-check.md\" \"/c/Users/hvill/Documents/claude-code-starter/global/commands/security-check.md\")",
+      "Bash(python generate_sop.py)"
+    ]
+  }
+}

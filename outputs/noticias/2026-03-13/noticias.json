@@ -1,0 +1,36 @@
+{
+  "noticias": [
+    {
+      "numero": 1,
+      "titular": "Gemini 3.1 Pro lanza 2M tokens contexto",
+      "resumen": "Google lanzó Gemini 3.1 Pro el 18 de febrero con ventana de 2 millones de tokens, 10 veces más que Claude, y mejor input multimodal nativo. Ahora podés analizar documentos gigantes o videos largos sin cortar nada. Pruébalo en Google AI Ultra por 249 USD/mes con uso ilimitado.",
+      "por_que_importa": "Si manejás informes largos o multimedia, esto te ahorra horas resumiendo manualmente. Cambia tu flujo en Google Workspace hoy.",
+      "fuente_nombre": "Blog Donweb",
+      "fuente_url": "https://blog.donweb.com/gemini-vs-chatgpt-vs-claude-comparativa-2026/"
+    },
+    {
+      "numero": 2,
+      "titular": "Claude Opus 4.6 domina programación",
+      "resumen": "Anthropic sacó Claude Opus 4.6 el 5 de febrero, líder en benchmarks de código con 80.84% en SWE-bench y pensamiento extendido para problemas complejos. Ideal para devs que arman agentes autónomos. Accedé en Claude Max desde 100 USD/mes.",
+      "por_que_importa": "Si codificás o automatizás con n8n, resuelve bugs en minutos que antes tomaban horas. Úsalo para tus proyectos ya.",
+      "fuente_nombre": "Blog Donweb",
+      "fuente_url": "https://blog.donweb.com/gemini-vs-chatgpt-vs-claude-comparativa-2026/"
+    },
+    {
+      "numero": 3,
+      "titular": "GPT-5.2 suma imágenes nativas",
+      "resumen": "OpenAI lanzó GPT-5.2 el 24 de febrero con razonamiento en cadena mejorado y generación de imágenes nativa via GPT-image-1.5, más Sora 2 para video. Ecosistema completo en un solo lugar. Probalo en ChatGPT Pro por 200 USD con ilimitado.",
+      "por_que_importa": "Para vos que creás contenido o GPTs personalizados, genera todo sin cambiar apps. Ahorra tiempo en tus side hustles.",
+      "fuente_nombre": "Blog Donweb",
+      "fuente_url": "https://blog.donweb.com/gemini-vs-chatgpt-vs-claude-comparativa-2026/"
+    },
+    {
+      "numero": 4,
+      "titular": "Caída masiva ChatGPT Claude Gemini",
+      "resumen": "El 2 de marzo colapsaron ChatGPT, Claude y Gemini por problemas de infraestructura, dejando miles sin servicio horas. Revela dependencia en clouds como Cloudflare. Monitoreá con Downdetector para no perder productividad.",
+      "por_que_importa": "Si usás IA diaria, ten backups como Grok para no parar tu flujo de trabajo. Evitá pérdidas en deadlines.",
+      "fuente_nombre": "El Confidencial",
+      "fuente_url": "https://www.elconfidencial.com/tecnologia/2026-03-02/apagon-chatgpt-claude-gemini-1qrt_4312657/"
+    }
+  ]
+}

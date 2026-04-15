@@ -1,0 +1,36 @@
+{
+  "noticias": [
+    {
+      "numero": 1,
+      "titular": "Claude Import Memory: transfiere tu contexto de ChatGPT",
+      "resumen": "Anthropic lanzó Claude Import Memory, una función que te permite transferir tu contexto, preferencias y proyectos desde ChatGPT o Gemini directamente a Claude sin empezar de cero. La información se guarda como memoria persistente y se reutiliza en todas tus conversaciones futuras. Esto elimina el problema de tener que reentrenar cada modelo nuevo sobre tu stack, tono y proyectos en curso. Podés probar esta función en todos los planes pagos de Claude.",
+      "por_que_importa": "Si usás múltiples modelos de IA, esto te ahorra horas de setup repetitivo. Tu contexto y preferencias ahora viajan contigo sin perder continuidad.",
+      "fuente_nombre": "Radical Data Science",
+      "fuente_url": "https://radicaldatascience.wordpress.com/2026/03/19/ai-news-briefs-bulletin-board-for-march-2026/"
+    },
+    {
+      "numero": 2,
+      "titular": "Gemini 3.1 Pro Preview: nuevo modelo con mejor razonamiento",
+      "resumen": "Google lanzó Gemini 3.1 Pro Preview el 19 de febrero con un score de 77.1% en ARC-AGI-2, un benchmark diseñado específicamente para resistir manipulación. Este modelo combina mejor razonamiento con contexto de 1M tokens y mantiene precios competitivos. Representa una mejora significativa en la reputación de Gemini después de los problemas iniciales de la línea 2.0.",
+      "por_que_importa": "Si necesitás razonamiento confiable sin pagar el premium de GPT-5.2, Gemini 3.1 Pro es ahora una opción seria para tareas técnicas y análisis complejos.",
+      "fuente_nombre": "TeamAI",
+      "fuente_url": "https://teamai.com/blog/uncategorized/claude-vs-chatgpt-vs-gemini-in-2026-giants-challengers-and-the-ai-odel-showdown/"
+    },
+    {
+      "numero": 3,
+      "titular": "Gemini 2.5 Flash: el modelo más rápido y barato del mercado",
+      "resumen": "Google optimizó Gemini 2.5 Flash para procesar 232 tokens por segundo con contexto de 1M tokens a solo $0.30 por millón de tokens. Es ahora el modelo recomendado por defecto para cargas de trabajo de alto volumen y baja latencia. Funciona perfecto para automatizaciones, procesamiento masivo de datos y aplicaciones que necesitan respuestas instantáneas.",
+      "por_que_importa": "Para workflows de automatización con n8n, Make o Zapier, este modelo te permite escalar sin explotar costos. Es ideal si procesás muchos datos o prompts diarios.",
+      "fuente_nombre": "TeamAI",
+      "fuente_url": "https://teamai.com/blog/uncategorized/claude-vs-chatgpt-vs-gemini-in-2026-giants-challengers-and-the-ai-odel-showdown/"
+    },
+    {
+      "numero": 4,
+      "titular": "Todos los modelos principales usan razonamiento ahora",
+      "resumen": "ChatGPT, Claude y Gemini han integrado capacidades de razonamiento en sus modelos principales. Esto significa que tareas que antes requerían modelos especializados ahora funcionan en las herramientas que ya usás. El razonamiento mejorado es especialmente útil para debugging de código, análisis de documentos complejos y resolución de problemas multi-paso.",
+      "por_que_importa": "No necesitás cambiar de herramienta ni pagar por modelos separados. Tu ChatGPT, Claude o Gemini de siempre ahora razona mejor.",
+      "fuente_nombre": "Mike.co.ke",
+      "fuente_url": "https://mike.co.ke/ai/ai-trends-march-2026/"
+    }
+  ]
+}

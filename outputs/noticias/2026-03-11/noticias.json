@@ -1,0 +1,32 @@
+{
+  "noticias": [
+    {
+      "numero": 1,
+      "titular": "Claude supera a ChatGPT en App Store",
+      "resumen": "Claude destronó a ChatGPT como #1 en App Store tras disputa OpenAI-Pentágono, atrayendo usuarios que buscan alternativa sin anuncios. Ofrece chats de texto/audio, análisis de fotos y conectores a Figma/Slack, pero sin generación de imágenes. Probá Claude gratis para tareas complejas y evitá switches costosos.",
+      "fuente_nombre": "Business Insider",
+      "fuente_url": "https://www.businessinsider.com/chatgpt-claude-gemini-features-comparison-2026-3"
+    },
+    {
+      "numero": 2,
+      "titular": "Claude arrasa en coding complejo 2026",
+      "resumen": "Claude destaca en lógica compleja, debugging y código limpio con 200K tokens de contexto, superando a ChatGPT y Gemini en precisión. Ideal para revisar codebases grandes sin errores tontos. Usalo en claude.ai para debuggear tu próximo proyecto y ahorrar horas.",
+      "fuente_nombre": "Playcode.io",
+      "fuente_url": "https://playcode.io/blog/chatgpt-vs-claude-vs-gemini-coding-2026"
+    },
+    {
+      "numero": 3,
+      "titular": "Gemini acelera con 1M tokens contexto",
+      "resumen": "Gemini brilla por velocidad y ventana de 1M tokens para procesar repos enteros, perfecto para devs en Google ecosystem. Genera video/música y analiza en vivo, gratis en tier básico. Probá Gemini para fixes rápidos en codebases gigantes hoy.",
+      "fuente_nombre": "Skywork.ai",
+      "fuente_url": "https://skywork.ai/skypage/en/ai-chatbot-revolution-guide/2029014402201751552"
+    },
+    {
+      "numero": 4,
+      "titular": "GPT 5.2 vs Claude Opus 4.2 comparados",
+      "resumen": "Presentaciones actualizadas muestran GPT 5.2 con pensamiento extendido, Claude Opus 4.2 en investigación y Gemini 3 en deep research con citas académicas. Gemini lista recursos extras para seguir explorando. Actualizá tu workflow probando estos modos en cada herramienta ahora.",
+      "fuente_nombre": "Ryan Schultz",
+      "fuente_url": "https://ryanschultz.com/2026/03/06/generative-ai-update-march-2026-my-updated-presentation-on-artificial-intelligence-and-genai-plus-my-first-thoughts-on-the-claude-add-in-for-powerpoint-and-yet-another-head-to-head-comparison-betw/"
+    }
+  ]
+}

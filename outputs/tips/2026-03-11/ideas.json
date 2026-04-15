@@ -1,0 +1,74 @@
+{
+  "ideas": [
+    {
+      "numero": 1,
+      "tema": "Prompts para emails",
+      "titulo_sugerido": "5 prompts listos para copiar y escribir emails perfectos con ChatGPT gratis",
+      "por_que": "La gente que apenas usa IA odia escribir emails largos y tediosos; estos prompts simples les ahorran 30 minutos al día copiándolos directo.",
+      "tipo": "prompts"
+    },
+    {
+      "numero": 2,
+      "tema": "Prompts para WhatsApp",
+      "titulo_sugerido": "4 prompts mágicos para mensajes de WhatsApp que venden más con IA gratuita",
+      "por_que": "Freelancers y vendedores LATAM pasan horas en WhatsApp; prompts listos les ayudan a responder rápido y profesional sin pensar.",
+      "tipo": "prompts"
+    },
+    {
+      "numero": 3,
+      "tema": "Prompts para propuestas",
+      "titulo_sugerido": "3 prompts para armar propuestas irresistibles en 5 minutos con ChatGPT",
+      "por_que": "Emprendedores luchan con propuestas; copiar estos prompts les da resultados pro sin saber escribir ventas.",
+      "tipo": "prompts"
+    },
+    {
+      "numero": 4,
+      "tema": "ChatGPT vs Gemini",
+      "titulo_sugerido": "ChatGPT vs Gemini: cuál usar gratis para tu trabajo (guía simple de 5 slides)",
+      "por_que": "Principiantes preguntan '¿cuál es mejor?'; esta comparativa clara les ayuda a elegir sin confundirse.",
+      "tipo": "comparativa"
+    },
+    {
+      "numero": 5,
+      "tema": "Claude para textos",
+      "titulo_sugerido": "Descubre Claude gratis: escribe mejor que ChatGPT sin límites molestos",
+      "por_que": "Muchos se frustran con límites de ChatGPT; Claude es gratis, potente y simple para tareas diarias.",
+      "tipo": "herramientas"
+    },
+    {
+      "numero": 6,
+      "tema": "Gemini para ideas",
+      "titulo_sugerido": "Gemini gratis de Google: genera ideas de contenido en segundos (mejor que ChatGPT)",
+      "por_que": "Community managers necesitan ideas rápidas; Gemini integra con Google y es gratis para LATAM.",
+      "tipo": "herramientas"
+    },
+    {
+      "numero": 7,
+      "tema": "Copilot para office",
+      "titulo_sugerido": "Microsoft Copilot gratis: arma reportes en Word y Excel sin esfuerzo",
+      "por_que": "Empleados odian Excel y reportes; Copilot gratis los hace en minutos desde Office que ya usan.",
+      "tipo": "herramientas"
+    },
+    {
+      "numero": 8,
+      "tema": "Emails con IA",
+      "titulo_sugerido": "Cómo IA gratuita escribe tus emails en 2 minutos (paso a paso)",
+      "por_que": "Todos escriben emails diarios y los odian; esto resuelve una tarea real ahorrando tiempo ya.",
+      "tipo": "tareas"
+    },
+    {
+      "numero": 9,
+      "tema": "Resúmenes de reuniones",
+      "titulo_sugerido": "Pega notas de reunión en IA gratis y obtén resumen perfecto en 1 minuto",
+      "por_que": "Asistentes y dueños de pymes olvidan detalles; IA gratuita organiza todo sin esfuerzo.",
+      "tipo": "tareas"
+    },
+    {
+      "numero": 10,
+      "tema": "Ahorro de tiempo general",
+      "titulo_sugerido": "10 comandos IA que te ahorran 2 horas al día (copia y pega ahora)",
+      "por_que": "Principiantes quieren resultados rápidos; estos tips simples multiplican su tiempo libre hoy mismo.",
+      "tipo": "ahorro de tiempo"
+    }
+  ]
+}

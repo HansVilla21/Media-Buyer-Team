@@ -1,0 +1,46 @@
+{
+  "tema": "Claude Code para no programadores",
+  "titulo_carrusel": "5 cosas que podes hacer con Claude Code aunque no sepas programar",
+  "tips": [
+    {
+      "numero": 1,
+      "titulo": "Le explicás lo que querés y él lo construye",
+      "cuerpo": "Le describís lo que necesitás y Claude Code lo crea en tu computadora. Por ejemplo: 'quiero un archivo Excel con mis gastos del mes separados por categoría'. Vos ni abrís Excel. No hace falta saber cómo se hace, solo saber qué querés.",
+      "clave": "De descripción a archivo terminado en segundos.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 2,
+      "titulo": "Lee y analiza cualquier archivo de tu PC",
+      "cuerpo": "Documentos, hojas de cálculo, carpetas enteras. Le pasás los archivos y le preguntás lo que necesitás saber. No hay que copiar y pegar nada. Claude Code accede directamente y te responde con lo que encontró.",
+      "clave": "Tu asistente tiene acceso a tus archivos, no solo al chat.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 3,
+      "titulo": "Usá este prompt para organizar tus carpetas",
+      "cuerpo": "La mayoría no sabe que puede pedirle a Claude Code que revise carpetas completas y tome decisiones. Este prompt funciona en cualquier carpeta desordenada: proyectos, descargas, documentos de trabajo. Copialo y probalo.",
+      "clave": "Carpeta organizada sin tocar un solo archivo a mano.",
+      "es_prompt": true,
+      "prompt_ejemplo": "Revisa todos los archivos de esta carpeta y decime cuales son los mas recientes, cuales estan duplicados y cuales puedo borrar sin problema."
+    },
+    {
+      "numero": 4,
+      "titulo": "Automatizá tareas que hacés siempre igual",
+      "cuerpo": "Renombrar archivos en lote, mover descargas, organizar carpetas, exportar reportes. Se lo explicás una vez y lo hace. Si lo necesitás repetir, se lo pedís de nuevo con una línea. Lo que antes te llevaba 30 minutos, en segundos.",
+      "clave": "Delegale las tareas aburridas de tu PC.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 5,
+      "titulo": "Creá tus propias herramientas sin saber código",
+      "cuerpo": "Un sistema de notas, un generador de propuestas, un tracker de clientes. Describís lo que querés y Claude Code lo arma. Herramientas hechas a medida para tu trabajo, que antes necesitaban contratar un programador.",
+      "clave": "Tu propio software, sin programadores ni costo extra.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    }
+  ]
+}

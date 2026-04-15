@@ -1,0 +1,36 @@
+{
+  "noticias": [
+    {
+      "numero": 1,
+      "titular": "OpenAI lanza GPT-5.3 Instant",
+      "resumen": "OpenAI lanzó GPT-5.3 Instant el 4/3/2026, enfocado en mejorar el flujo conversacional, relevancia de respuestas y búsquedas web en ChatGPT. Reduce rechazos innecesarios para dar respuestas más directas. Ahora tus chats fluyen mejor sin interrupciones molestas. Pruébalo ya en ChatGPT pagado.",
+      "por_que_importa": "Si usás ChatGPT diario, esto acelera tus tareas y evita frustraciones, ahorrando tiempo en prompts.",
+      "fuente_nombre": "Radical Data Science",
+      "fuente_url": "https://radicaldatascience.wordpress.com/2026/03/18/ai-news-briefs-bulletin-board-for-march-2026/"
+    },
+    {
+      "numero": 2,
+      "titular": "Claude Import Memory migra tu contexto",
+      "resumen": "Anthropic lanzó Claude Import Memory el 2/3/2026 para transferir contexto de ChatGPT o Gemini en un paso. Guarda tu stack, tono y proyectos como memoria persistente entre sesiones. Olvidate de repetir todo al cambiar de modelo. Funciona en todos los planes pagos de Claude.",
+      "por_que_importa": "Para vos que probás varios AIs, esto mantiene continuidad y acelera tu workflow sin reseteos.",
+      "fuente_nombre": "Radical Data Science",
+      "fuente_url": "https://radicaldatascience.wordpress.com/2026/03/18/ai-news-briefs-bulletin-board-for-march-2026/"
+    },
+    {
+      "numero": 3,
+      "titular": "Gemini predice agentes proactivos 2026",
+      "resumen": "Gemini anticipa para 2026 agentes AI que actúan solos: reprograman citas, actualizan calendarios y manejan logística sin tocar el teléfono. Pasan de charlar a ejecutar tareas multi-paso en loop cerrado. Imagina software que observa reuniones y asigna tasks solo. Chequealo preguntándole a Gemini hoy.",
+      "por_que_importa": "Si querés automatizar tu día, esto significa menos clics y más tiempo libre en tu rutina productiva.",
+      "fuente_nombre": "TechRadar",
+      "fuente_url": "https://www.techradar.com/ai-platforms-assistants/what-does-2026-have-in-store-for-ai-we-asked-chatgpt-gemini-and-claude-heres-what-they-said"
+    },
+    {
+      "numero": 4,
+      "titular": "Claude 4.5 mejora coding y razonamiento",
+      "resumen": "Claude 4.5 Sonnet actualiza coding, razonamiento en tareas largas y reduce 'reward-hacking' en agentes. Mantiene precios estables para APIs. Ideal para workflows técnicos con menos errores en contextos grandes. Usalo en Claude pagado para tus proyectos de código.",
+      "por_que_importa": "Si codificás o usás agents, esto da resultados más confiables y estables en tu trabajo diario.",
+      "fuente_nombre": "Gene Dai Blog",
+      "fuente_url": "https://digidai.github.io/2026/03/13/chatgpt-vs-claude-vs-gemini-2026-ultimate-comparison/"
+    }
+  ]
+}

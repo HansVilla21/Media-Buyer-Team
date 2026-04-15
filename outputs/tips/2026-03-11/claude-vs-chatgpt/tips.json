@@ -1,0 +1,41 @@
+{
+  "tema": "Claude vs ChatGPT",
+  "titulo_carrusel": "Por qué todos están cambiando ChatGPT por Claude",
+  "tips": [
+    {
+      "numero": 1,
+      "titulo": "Subí documentos completos",
+      "cuerpo": "ChatGPT se pierde con textos largos, pero Claude lee hasta 200 páginas enteras sin olvidar nada. Copiá un contrato o manual completo y preguntale lo que sea. Ideal para contadores o dueños de pymes que revisan papeles largos todos los días.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 2,
+      "titulo": "Pedile instrucciones complejas",
+      "cuerpo": "La mayoría usa prompts simples en ambos, pero Claude sigue reglas detalladas sin desviarse, como un empleado perfecto. Decile exactamente cómo querés el tono y formato, y lo hace al pie de la letra. Perfecto para emails profesionales o informes.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 3,
+      "titulo": "Usá este prompt para analizar emails",
+      "cuerpo": "En vez de leer cadenas eternas de emails en ChatGPT que se enreda, pegá todo en Claude y obtené un resumen claro. Este prompt te da acciones listas en segundos, sin perder contexto. Probálo ahora en tu bandeja.",
+      "es_prompt": true,
+      "prompt_ejemplo": "Analizá esta cadena de emails completa: dame 3 bullets con qué piden, qué debo responder y deadline. Sé directo, usá lenguaje simple y no inventes nada."
+    },
+    {
+      "numero": 4,
+      "titulo": "Escribí textos profesionales",
+      "cuerpo": "ChatGPT es creativo pero a veces alucina, Claude da respuestas sobrias, claras y precisas como un experto. Pedile que redacte propuestas o respuestas formales y vas a notar la diferencia en calidad. La mayoría no lo prueba para esto.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 5,
+      "titulo": "Manejá temas sensibles",
+      "cuerpo": "Claude es más cuidadoso y neutral en temas delicados que ChatGPT, que a veces exagera. Preguntale sobre quejas de clientes o políticas y te da respuestas equilibradas sin riesgos. Genial para community managers o vendedores.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    }
+  ]
+}

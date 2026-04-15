@@ -1,0 +1,74 @@
+{
+  "ideas": [
+    {
+      "numero": 1,
+      "tema": "Prompts para emails",
+      "titulo_sugerido": "5 prompts listos para copiar y escribir emails perfectos con ChatGPT gratis",
+      "por_que": "La gente que apenas usa IA pasa horas escribiendo emails y odia sonar repetitivo. Estos prompts simples les ahorran 30 minutos al día copiando y pegando.",
+      "tipo": "prompts"
+    },
+    {
+      "numero": 2,
+      "tema": "Prompts para WhatsApp",
+      "titulo_sugerido": "4 prompts mágicos para mensajes de WhatsApp que venden más con IA gratuita",
+      "por_que": "Freelancers y vendedores LATAM mandan cientos de mensajes diarios y quieren sonar profesionales sin esfuerzo. Listo para probar en 2 minutos.",
+      "tipo": "prompts"
+    },
+    {
+      "numero": 3,
+      "tema": "Prompts para propuestas",
+      "titulo_sugerido": "3 prompts para armar propuestas de trabajo irresistibles en ChatGPT",
+      "por_que": "Empleados y emprendedores luchan por escribir propuestas que cierren ventas. Esto les da textos listos que suenan expertos sin pensar.",
+      "tipo": "prompts"
+    },
+    {
+      "numero": 4,
+      "tema": "ChatGPT gratis",
+      "titulo_sugerido": "Qué podés hacer HOY con ChatGPT gratis que no sabías (10 tips nivel cero)",
+      "por_que": "Conocen ChatGPT de nombre pero no saben usarlo para su trabajo real. Muestra trucos simples que resuelven problemas diarios sin pagar.",
+      "tipo": "herramientas gratuitas"
+    },
+    {
+      "numero": 5,
+      "tema": "Claude gratis",
+      "titulo_sugerido": "Claude gratis: 5 cosas que hace MEJOR que ChatGPT (y cómo empezar ya)",
+      "por_que": "Principiantes piensan que solo hay ChatGPT. Claude es gratis y resuelve tareas como resumir documentos largos que todos odian.",
+      "tipo": "herramientas gratuitas"
+    },
+    {
+      "numero": 6,
+      "tema": "Gemini gratis",
+      "titulo_sugerido": "Gemini de Google gratis: analiza fotos y PDFs en segundos (guía para novatos)",
+      "por_que": "Tienen Google todo el día pero no saben de Gemini. Ideal para community managers que suben imágenes o PDFs sin complicaciones.",
+      "tipo": "herramientas gratuitas"
+    },
+    {
+      "numero": 7,
+      "tema": "Emails con IA",
+      "titulo_sugerido": "Cómo escribir 10 emails al día en 10 minutos con IA gratuita",
+      "por_que": "Asistentes y vendedores pierden horas en emails repetitivos. Esto les cambia la rutina mostrando un flujo simple paso a paso.",
+      "tipo": "tareas cotidianas"
+    },
+    {
+      "numero": 8,
+      "tema": "Reportes rápidos",
+      "titulo_sugerido": "Armá reportes de ventas en 5 minutos con ChatGPT (sin Excel complicado)",
+      "por_que": "Contadores y dueños de pymes odian hacer reportes manuales. La IA lo hace por ellos con datos que ya tienen, ahorrando horas semanales.",
+      "tipo": "tareas cotidianas"
+    },
+    {
+      "numero": 9,
+      "tema": "ChatGPT vs Claude",
+      "titulo_sugerido": "ChatGPT vs Claude gratis: cuál usar para TU trabajo (comparativa simple)",
+      "por_que": "Novatos no saben cuál probar primero. Muestra con ejemplos reales cuándo cambiar de una a otra para tareas como escribir o analizar.",
+      "tipo": "comparativa"
+    },
+    {
+      "numero": 10,
+      "tema": "Ahorro de tiempo",
+      "titulo_sugerido": "Ahorrá 2 horas diarias con este truco de IA que nadie usa (ChatGPT gratis)",
+      "por_que": "Todos quieren más tiempo libre pero no saben cómo. Un flujo simple para organizar tareas diarias que prueban en 10 minutos.",
+      "tipo": "ahorro de tiempo"
+    }
+  ]
+}

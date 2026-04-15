@@ -1,0 +1,46 @@
+{
+  "tema": "Claude vs ChatGPT",
+  "titulo_carrusel": "Por qué todos están cambiando ChatGPT por Claude",
+  "tips": [
+    {
+      "numero": 1,
+      "titulo": "Usá Claude para documentos de 150 páginas",
+      "cuerpo": "La mayoría sigue fragmentando contratos o manuales en ChatGPT porque no sabe que Claude procesa 200k tokens sin perder coherencia. Podés cargar un contrato completo, un manual técnico o una base de conocimiento entera, y Claude mantiene las referencias cruzadas intactas. ChatGPT se pierde después de 30 páginas.",
+      "clave": "Documentos completos sin fragmentar, sin perder información.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 2,
+      "titulo": "Pedile a Claude que siga instrucciones complejas",
+      "cuerpo": "Si tenés que darle a la IA un system prompt de 2000 palabras con reglas detalladas sobre tono, formato y restricciones, Claude lo sigue con 95% de fidelidad. ChatGPT se olvida de la mitad. Ideal si trabajás con clientes y necesitás que la IA respete políticas específicas sin desviarse.",
+      "clave": "Instrucciones complejas seguidas sin desviarse.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 3,
+      "titulo": "Usá este prompt para análisis de contratos",
+      "cuerpo": "Muchos abogados y contadores usan ChatGPT para revisar documentos legales y obtienen respuestas inventadas. Claude está diseñado para esto: es más estable en textos jurídicos, no alucina cláusulas que no existen, y explica términos complejos sin equivocarse. Probá este prompt y compará los resultados.",
+      "clave": "Análisis de contratos sin alucinaciones, 100% confiable.",
+      "es_prompt": true,
+      "prompt_ejemplo": "Analizá este contrato y extraé: 1) Las obligaciones principales de cada parte, 2) Las fechas clave y plazos, 3) Cualquier cláusula de riesgo o restricción importante. Sé directo y usa lenguaje simple, como si lo explicaras a alguien sin experiencia legal."
+    },
+    {
+      "numero": 4,
+      "titulo": "Claude para reportes, ChatGPT para creatividad",
+      "cuerpo": "Si necesitás un reporte profesional, un análisis comparativo o documentación técnica, Claude gana: redacción limpia, estructura clara, registro corporativo. Si necesitás un copy para redes, un guión dinámico o contenido con tono, ChatGPT es superior. La mayoría usa la herramienta equivocada para cada tarea.",
+      "clave": "Reportes profesionales en Claude, creatividad en ChatGPT.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    },
+    {
+      "numero": 5,
+      "titulo": "Claude no busca en internet, ChatGPT sí",
+      "cuerpo": "Si necesitás datos actuales, precios de hoy, noticias de esta semana o verificar información en tiempo real, ChatGPT accede a internet. Claude no. Pero si necesitás analizar un documento extenso o razonar profundamente sobre información que ya tenés, Claude es más confiable. Elegí la herramienta según lo que necesites.",
+      "clave": "Datos actuales en ChatGPT, análisis profundo en Claude.",
+      "es_prompt": false,
+      "prompt_ejemplo": null
+    }
+  ]
+}
